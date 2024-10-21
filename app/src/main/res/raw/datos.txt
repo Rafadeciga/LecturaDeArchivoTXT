@@ -1,0 +1,33 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 Helvetica-Bold;\f2\fswiss\fcharset0 Helvetica-Oblique;
+}
+{\colortbl;\red255\green255\blue255;\red24\green25\blue26;\red255\green255\blue255;\red39\green78\blue192;
+\red203\green29\blue39;}
+{\*\expandedcolortbl;;\cssrgb\c12549\c12941\c13333;\cssrgb\c100000\c100000\c100000;\cssrgb\c20000\c40000\c80000;
+\cssrgb\c84314\c20000\c20000;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+Un 
+\f1\b archivo de texto simple
+\f0\b0 , 
+\f1\b texto sencillo
+\f0\b0  o 
+\f1\b texto sin formato
+\f0\b0  (tambi\'e9n llamado 
+\f1\b texto plano
+\f0\b0  o 
+\f1\b texto simple
+\f0\b0 ; en ingl\'e9s \'ab
+\f2\i plain text
+\f0\i0 \'bb), es un {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/wiki/Archivo_(inform%C3%A1tica)"}}{\fldrslt \cf4 archivo inform\'e1tico}} que contiene \'fanicamente {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/wiki/Texto"}}{\fldrslt \cf4 texto}} formado solo por {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/wiki/Car%C3%A1cter_(inform%C3%A1tica)"}}{\fldrslt \cf4 caracteres}} que son {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/wiki/Legibilidad_humana"}}{\fldrslt \cf4 legibles por humanos}} y carece de cualquier tipo de {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/wiki/Tipograf%C3%ADa"}}{\fldrslt \cf4 formato tipogr\'e1fico}}.
+\fs23\fsmilli11667 \cf4 \super 1
+\fs28 \cf2 \cb1 \nosupersub \
+\cb3 Estos archivos est\'e1n compuestos de {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/wiki/Byte"}}{\fldrslt \cf4 bytes}} que representan caracteres ordinarios como {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/wiki/Letra"}}{\fldrslt \cf4 letras}}, {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/wiki/N%C3%BAmero"}}{\fldrslt \cf4 n\'fameros}} y {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/wiki/Signo_de_puntuaci%C3%B3n"}}{\fldrslt \cf4 signos de puntuaci\'f3n}} (incluyendo espacios en blanco), tambi\'e9n incluye algunos pocos caracteres de control como {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/wiki/Tabulaci%C3%B3n"}}{\fldrslt \cf4 tabulaciones}}, {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/wiki/Salto_de_l%C3%ADnea"}}{\fldrslt \cf4 saltos de l\'ednea}} y {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/wiki/Retorno_de_carro"}}{\fldrslt \cf4 retornos de carro}}. Estos caracteres se pueden {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/wiki/Codificaci%C3%B3n_de_caracteres"}}{\fldrslt \cf4 codificar}} de distintos modos. El sistema de codificaci\'f3n {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/wiki/ASCII"}}{\fldrslt \cf4 ASCII}} viene a ser la base primordial y no necesita de un identificador expl\'edcito en la {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/wiki/Transmisi%C3%B3n_de_datos"}}{\fldrslt \cf4 comunicaci\'f3n digital}}. Para poder representar diferentes sistemas de codificaci\'f3n de caracteres como {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/w/index.php?title=UTF-1&action=edit&redlink=1"}}{\fldrslt \cf5 UTF-1}}, {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/wiki/UTF-7"}}{\fldrslt \cf4 UTF-7}}, {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/wiki/UTF-8"}}{\fldrslt \cf4 UTF-8}}, {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/wiki/UTF-16"}}{\fldrslt \cf4 UTF-16}}, {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/w/index.php?title=UTF-32&action=edit&redlink=1"}}{\fldrslt \cf5 UTF-32}}, {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/w/index.php?title=UTF-EBCDIC&action=edit&redlink=1"}}{\fldrslt \cf5 UTF-EBCDIC}}, {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/w/index.php?title=SCSU&action=edit&redlink=1"}}{\fldrslt \cf5 SCSU}}, {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/w/index.php?title=BOCU-1&action=edit&redlink=1"}}{\fldrslt \cf5 BOCU-1}} y {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/wiki/GB_18030"}}{\fldrslt \cf4 GB 18030}} es necesario que haya al principio de cada fichero de texto una {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/wiki/Marca_de_orden_de_bytes"}}{\fldrslt \cf4 marca de orden de bytes}}.\cb1 \
+\cb3 Los archivos de texto plano carecen de informaci\'f3n destinada a generar formatos (negritas, subrayado, cursivas, tama\'f1o, etc.)
+\fs23\fsmilli11667 \cf4 \super 2
+\fs28 \cf2 \nosupersub  y {\field{\*\fldinst{HYPERLINK "https://es.wikipedia.org/wiki/Tipo_de_letra"}}{\fldrslt \cf4 tipos de letra}} (por ejemplo, Arial, Times, Courier, etc.).
+\fs23\fsmilli11667 \cf4 \super 2
+\fs28 \cf2 \nosupersub  Esta simplicidad permite que una gran variedad de programas pueda leer y editar ese contenido. Las aplicaciones destinadas a la escritura y modificaci\'f3n de archivos de texto se llaman editores de texto. Cada texto tiene un peso diferente porque tiene una codificaci\'f3n distinta.}
